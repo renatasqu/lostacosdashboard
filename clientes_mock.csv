@@ -1,0 +1,31 @@
+cliente_id,nome,cpf,email,whatsapp,data_cadastro,ultimo_pedido,total_visitas,gasto_total,nivel_fidelidade,tacos_gratis_disponiveis,canal_preferido,item_favorito
+c001,Ana Souza,754.214.125-45,ana.souza@email.com,(31) 99935-2424,2026-06-12,2026-06-03,8,137.82,Libre,1,ifood,Limonada Mexicana
+c002,Pedro Lima,132.130.195-37,pedro.lima@email.com,(31) 94257-9928,2026-06-01,2026-06-10,8,276.63,Libre,1,balcão,Quesadilla Camarão
+c003,Carla Mendes,559.703.384-10,carla.mendes@email.com,(31) 93547-4527,2026-06-06,2026-06-06,6,371.48,Libre,1,balcão,Taco Camarão
+c004,João Costa,194.489.199-55,joão.costa@email.com,(31) 98527-9785,2026-06-13,2026-06-02,12,325.03,Libre Gold,2,totem,Agua de Jamaica
+c005,Beatriz Rocha,180.665.400-90,beatriz.rocha@email.com,(31) 91750-4733,2026-06-12,2026-06-03,12,312.06,Libre Gold,2,balcão,Taco Carne Assada
+c006,Lucas Ferreira,975.338.987-22,lucas.ferreira@email.com,(31) 93664-7065,2026-06-11,2026-06-07,13,164.76,Libre Gold,2,balcão,Quesadilla Frango
+c007,Mariana Silva,786.373.818-97,mariana.silva@email.com,(31) 95010-3677,2026-06-03,2026-06-10,3,327.69,Novo,0,balcão,Agua de Jamaica
+c008,Rafael Oliveira,376.755.804-81,rafael.oliveira@email.com,(31) 94752-1525,2026-06-13,2026-06-02,8,364.83,Libre,1,balcão,Agua de Jamaica
+c009,Camila Santos,374.167.316-82,camila.santos@email.com,(31) 98517-3340,2026-06-08,2026-06-08,11,132.61,Libre Gold,2,balcão,Taco Vegano
+c010,Thiago Alves,352.862.674-78,thiago.alves@email.com,(31) 97543-6930,2026-06-07,2026-06-11,9,395.53,Libre,1,totem,Taco Vegano
+c011,Juliana Pereira,621.605.193-16,juliana.pereira@email.com,(31) 97916-2040,2026-06-03,2026-06-12,4,103.2,Libre,0,balcão,Agua de Jamaica
+c012,Bruno Martins,710.579.641-42,bruno.martins@email.com,(31) 92876-9797,2026-06-01,2026-06-12,18,451.5,Libre Gold,3,balcão,Nachos Clássicos
+c013,Fernanda Gomes,214.400.545-30,fernanda.gomes@email.com,(31) 95315-9201,2026-06-12,2026-06-13,15,29.6,Libre Gold,3,totem,Margarita Maracujá
+c014,Diego Castro,208.991.740-48,diego.castro@email.com,(31) 93646-9837,2026-06-03,2026-06-07,17,327.61,Libre Gold,3,ifood,Taco Carnitas
+c015,Larissa Nunes,713.431.600-12,larissa.nunes@email.com,(31) 94923-1949,2026-06-13,2026-06-06,4,485.12,Libre,0,totem,Taco Carne Assada
+c016,Mateus Ramos,187.849.597-18,mateus.ramos@email.com,(31) 98787-3705,2026-06-03,2026-06-12,18,404.79,Libre Gold,3,balcão,Margarita Maracujá
+c017,Isabela Moura,993.721.533-37,isabela.moura@email.com,(31) 96107-7537,2026-06-12,2026-06-05,18,399.59,Libre Gold,3,ifood,Nachos Carnitas
+c018,Felipe Barbosa,548.629.562-25,felipe.barbosa@email.com,(31) 94770-4608,2026-06-06,2026-06-02,8,138.55,Libre,1,totem,Taco Carne Assada
+c019,Tatiana Cardoso,824.746.160-39,tatiana.cardoso@email.com,(31) 99423-4899,2026-06-06,2026-06-03,3,473.47,Novo,0,balcão,Margarita Clássica
+c020,Rodrigo Pinto,319.652.235-83,rodrigo.pinto@email.com,(31) 94119-2545,2026-06-08,2026-06-08,16,147.55,Libre Gold,3,totem,Limonada Mexicana
+c021,Amanda Teixeira,462.533.520-69,amanda.teixeira@email.com,(31) 91993-7596,2026-06-11,2026-06-03,2,359.3,Novo,0,ifood,Nachos Clássicos
+c022,Guilherme Melo,919.982.211-41,guilherme.melo@email.com,(31) 97912-4006,2026-06-08,2026-06-04,7,121.58,Libre,1,balcão,Cerveja Artesanal
+c023,Priscila Lopes,355.995.177-66,priscila.lopes@email.com,(31) 91241-2528,2026-06-11,2026-06-10,18,76.17,Libre Gold,3,totem,Quesadilla Queijo
+c024,Eduardo Vieira,516.597.592-37,eduardo.vieira@email.com,(31) 91035-7396,2026-06-03,2026-06-08,13,472.0,Libre Gold,2,balcão,Cerveja Artesanal
+c025,Natália Freitas,392.533.813-81,natália.freitas@email.com,(31) 91958-9883,2026-06-05,2026-06-05,16,104.16,Libre Gold,3,totem,Nachos Clássicos
+c026,Leonardo Cruz,158.151.698-71,leonardo.cruz@email.com,(31) 91931-9320,2026-06-09,2026-06-04,17,480.34,Libre Gold,3,totem,Quesadilla Queijo
+c027,Sabrina Monteiro,170.709.169-96,sabrina.monteiro@email.com,(31) 91651-2343,2026-06-10,2026-06-05,8,226.66,Libre,1,balcão,Margarita Maracujá
+c028,Victor Ribeiro,423.367.309-95,victor.ribeiro@email.com,(31) 95915-8491,2026-06-07,2026-06-04,11,145.43,Libre Gold,2,balcão,Taco Carne Assada
+c029,Aline Correia,109.569.736-82,aline.correia@email.com,(31) 95345-3170,2026-06-04,2026-06-10,4,64.04,Libre,0,balcão,Taco Carne Assada
+c030,Henrique Dias,350.478.391-30,henrique.dias@email.com,(31) 99666-1128,2026-06-12,2026-06-06,15,438.2,Libre Gold,3,ifood,Água

@@ -1,0 +1,316 @@
+pedido_id,data,dia_semana,turno,horario,cliente_id,cliente_nome,canal,pagamento,cupom,itens,categorias,subtotal,desconto,total,taxa_canal,tempo_preparo_min,status,local_ou_entrega
+P0001,2026-06-01,segunda,almoco,13:51,c010,Thiago Alves,ifood,PIX,,Taco Camarão,Tacos,38,0,38,4.56,8,finalizado,entrega
+P0002,2026-06-01,segunda,almoco,13:35,c009,Camila Santos,totem,débito,,Burrito Completo | Margarita Maracujá,Burritos | Bebidas,68,0,68,0,10,finalizado,local
+P0003,2026-06-01,segunda,almoco,12:03,c003,Carla Mendes,ifood,débito,,Nachos Clássicos,Nachos,32,0,32,3.84,16,finalizado,entrega
+P0004,2026-06-01,segunda,almoco,14:26,c009,Camila Santos,totem,crédito,COMBO29,Água | Taco Carnitas | Taco Camarão | Taco Frango,Bebidas | Tacos | Tacos | Tacos,96,67,29,0,8,cancelado,local
+P0005,2026-06-01,segunda,tarde,16:03,c027,Sabrina Monteiro,totem,débito,,Taco Frango | Burrito Vegetariano,Tacos | Burritos,52,0,52,0,18,finalizado,local
+P0006,2026-06-01,segunda,tarde,15:30,c029,Aline Correia,totem,PIX,,Água | Limonada Mexicana | Taco Vegano,Bebidas | Bebidas | Tacos,42,0,42,0,8,finalizado,local
+P0007,2026-06-01,segunda,jantar,18:25,c029,Aline Correia,balcão,PIX,,Quesadilla Camarão | Burrito Completo | Quesadilla Queijo | Agua de Jamaica,Quesadillas | Burritos | Quesadillas | Bebidas,116,0,116,0,12,finalizado,local
+P0008,2026-06-01,segunda,jantar,17:42,c028,Victor Ribeiro,balcão,PIX,,Burrito Vegetariano | Quesadilla Camarão | Margarita Maracujá,Burritos | Quesadillas | Bebidas,102,0,102,0,16,finalizado,local
+P0009,2026-06-01,segunda,jantar,17:44,c013,Fernanda Gomes,totem,PIX,,Margarita Maracujá | Agua de Jamaica | Nachos Clássicos,Bebidas | Bebidas | Nachos,76,0,76,0,7,finalizado,local
+P0010,2026-06-01,segunda,jantar,21:51,c006,Lucas Ferreira,balcão,PIX,,Nachos Carnitas | Nachos Clássicos | Limonada Mexicana | Burrito Vegetariano,Nachos | Nachos | Bebidas | Burritos,118,0,118,0,7,finalizado,viagem
+P0011,2026-06-01,segunda,jantar,21:10,c029,Aline Correia,balcão,PIX,,Taco Carnitas | Margarita Maracujá | Quesadilla Frango | Quesadilla Queijo,Tacos | Bebidas | Quesadillas | Quesadillas,116,0,116,0,7,finalizado,local
+P0012,2026-06-01,segunda,jantar,20:01,c020,Rodrigo Pinto,totem,crédito,,Limonada Mexicana | Nachos Clássicos | Agua de Jamaica,Bebidas | Nachos | Bebidas,58,0,58,0,14,finalizado,local
+P0013,2026-06-02,terça,almoco,12:43,c014,Diego Castro,ifood,débito,,Agua de Jamaica | Taco Carnitas | Burrito Vegetariano,Bebidas | Tacos | Burritos,68,0,68,8.16,9,cancelado,entrega
+P0014,2026-06-02,terça,almoco,12:13,c014,Diego Castro,rappi,débito,NACHO15,Cerveja Artesanal | Quesadilla Frango | Margarita Clássica | Agua de Jamaica,Bebidas | Quesadillas | Bebidas | Bebidas,88,13.2,74.8,10.56,16,finalizado,entrega
+P0015,2026-06-02,terça,almoco,12:20,c003,Carla Mendes,totem,débito,NACHO15,Burrito Vegetariano | Quesadilla Camarão,Burritos | Quesadillas,70,10.5,59.5,0,8,finalizado,local
+P0016,2026-06-02,terça,almoco,12:32,c002,Pedro Lima,totem,débito,,Quesadilla Frango | Agua de Jamaica | Margarita Clássica | Água,Quesadillas | Bebidas | Bebidas | Bebidas,76,0,76,0,8,finalizado,local
+P0017,2026-06-02,terça,almoco,13:28,c029,Aline Correia,rappi,crédito,,Quesadilla Queijo | Margarita Maracujá,Quesadillas | Bebidas,58,0,58,6.96,6,finalizado,entrega
+P0018,2026-06-02,terça,tarde,16:53,c018,Felipe Barbosa,totem,crédito,,Cerveja Artesanal | Margarita Maracujá,Bebidas | Bebidas,50,0,50,0,15,finalizado,local
+P0019,2026-06-02,terça,tarde,15:33,c025,Natália Freitas,balcão,débito,LIBRE10,Quesadilla Queijo | Margarita Clássica | Cerveja Artesanal | Taco Vegano,Quesadillas | Bebidas | Bebidas | Tacos,94,9.4,84.6,0,16,cancelado,local
+P0020,2026-06-02,terça,jantar,19:30,c025,Natália Freitas,rappi,débito,COMBO29,Cerveja Artesanal | Taco Carne Assada | Burrito Vegetariano,Bebidas | Tacos | Burritos,78,49,29,9.36,10,finalizado,entrega
+P0021,2026-06-02,terça,jantar,18:48,c011,Juliana Pereira,totem,débito,,Quesadilla Camarão | Agua de Jamaica,Quesadillas | Bebidas,54,0,54,0,17,finalizado,local
+P0022,2026-06-02,terça,jantar,21:05,c003,Carla Mendes,balcão,débito,NACHO15,Limonada Mexicana | Taco Frango | Quesadilla Frango | Água,Bebidas | Tacos | Quesadillas | Bebidas,74,11.1,62.9,0,12,cancelado,local
+P0023,2026-06-02,terça,jantar,20:02,c028,Victor Ribeiro,rappi,débito,LIBRE10,Nachos Carnitas,Nachos,44,4.4,39.6,5.28,18,finalizado,entrega
+P0024,2026-06-02,terça,jantar,19:49,c013,Fernanda Gomes,rappi,crédito,LIBRE10,Margarita Clássica | Quesadilla Camarão,Bebidas | Quesadillas,70,7.0,63.0,8.4,12,cancelado,entrega
+P0025,2026-06-02,terça,jantar,22:03,c016,Mateus Ramos,totem,débito,NACHO15,Cerveja Artesanal | Taco Vegano,Bebidas | Tacos,40,6.0,34.0,0,6,finalizado,viagem
+P0026,2026-06-02,terça,jantar,19:43,c019,Tatiana Cardoso,balcão,crédito,,Taco Vegano | Cerveja Artesanal | Quesadilla Queijo | Taco Carnitas,Tacos | Bebidas | Quesadillas | Tacos,94,0,94,0,12,finalizado,local
+P0027,2026-06-03,quarta,almoco,13:48,c015,Larissa Nunes,totem,PIX,LIBRE10,Burrito Completo | Taco Carne Assada | Margarita Clássica | Taco Carnitas,Burritos | Tacos | Bebidas | Tacos,124,12.4,111.6,0,6,finalizado,local
+P0028,2026-06-03,quarta,almoco,14:09,c008,Rafael Oliveira,ifood,PIX,,Quesadilla Frango | Taco Carnitas,Quesadillas | Tacos,58,0,58,6.96,8,finalizado,entrega
+P0029,2026-06-03,quarta,almoco,13:04,c008,Rafael Oliveira,totem,débito,,Cerveja Artesanal | Burrito Completo,Bebidas | Burritos,54,0,54,0,8,cancelado,local
+P0030,2026-06-03,quarta,almoco,13:57,c025,Natália Freitas,rappi,PIX,,Burrito Vegetariano,Burritos,28,0,28,3.36,16,finalizado,entrega
+P0031,2026-06-03,quarta,almoco,14:25,c030,Henrique Dias,balcão,débito,,Taco Camarão | Burrito Vegetariano,Tacos | Burritos,66,0,66,0,15,finalizado,local
+P0032,2026-06-03,quarta,almoco,13:17,c026,Leonardo Cruz,balcão,crédito,,Nachos Carnitas | Taco Carne Assada | Nachos Clássicos | Taco Carnitas,Nachos | Tacos | Nachos | Tacos,136,0,136,0,13,finalizado,local
+P0033,2026-06-03,quarta,tarde,16:47,c014,Diego Castro,totem,crédito,COMBO29,Quesadilla Queijo | Margarita Maracujá | Burrito Completo | Burrito Vegetariano,Quesadillas | Bebidas | Burritos | Burritos,122,93,29,0,18,finalizado,viagem
+P0034,2026-06-03,quarta,tarde,16:25,c015,Larissa Nunes,balcão,crédito,,Taco Carne Assada | Burrito Completo,Tacos | Burritos,68,0,68,0,9,finalizado,viagem
+P0035,2026-06-03,quarta,tarde,15:53,c019,Tatiana Cardoso,balcão,crédito,LIBRE10,Margarita Clássica,Bebidas,28,2.8,25.2,0,8,finalizado,viagem
+P0036,2026-06-03,quarta,jantar,18:13,c007,Mariana Silva,totem,crédito,,Burrito Completo | Taco Carnitas | Quesadilla Frango,Burritos | Tacos | Quesadillas,94,0,94,0,9,finalizado,viagem
+P0037,2026-06-03,quarta,jantar,19:23,c016,Mateus Ramos,balcão,crédito,,Cerveja Artesanal | Taco Carnitas | Taco Carne Assada | Taco Vegano,Bebidas | Tacos | Tacos | Tacos,100,0,100,0,12,finalizado,local
+P0038,2026-06-03,quarta,jantar,21:22,c010,Thiago Alves,ifood,débito,NACHO15,Limonada Mexicana | Nachos Clássicos | Nachos Carnitas,Bebidas | Nachos | Nachos,90,13.5,76.5,10.8,10,finalizado,entrega
+P0039,2026-06-03,quarta,jantar,19:20,c010,Thiago Alves,totem,PIX,,Taco Camarão | Quesadilla Queijo | Quesadilla Frango,Tacos | Quesadillas | Quesadillas,94,0,94,0,17,finalizado,viagem
+P0040,2026-06-03,quarta,jantar,20:34,c009,Camila Santos,ifood,débito,,Burrito Vegetariano | Quesadilla Camarão,Burritos | Quesadillas,70,0,70,8.4,8,finalizado,entrega
+P0041,2026-06-03,quarta,jantar,22:13,c010,Thiago Alves,totem,crédito,,Taco Frango,Tacos,24,0,24,0,10,finalizado,local
+P0042,2026-06-03,quarta,jantar,21:30,c021,Amanda Teixeira,rappi,crédito,COMBO29,Burrito Vegetariano,Burritos,28,0,28,3.36,13,finalizado,entrega
+P0043,2026-06-03,quarta,jantar,18:07,c015,Larissa Nunes,totem,PIX,,Taco Camarão | Taco Carne Assada | Agua de Jamaica | Quesadilla Camarão,Tacos | Tacos | Bebidas | Quesadillas,124,0,124,0,15,finalizado,local
+P0044,2026-06-03,quarta,jantar,19:25,c005,Beatriz Rocha,totem,crédito,,Taco Camarão | Limonada Mexicana,Tacos | Bebidas,52,0,52,0,18,finalizado,viagem
+P0045,2026-06-04,quinta,almoco,12:23,c030,Henrique Dias,balcão,PIX,LIBRE10,Taco Camarão,Tacos,38,3.8,34.2,0,16,finalizado,local
+P0046,2026-06-04,quinta,almoco,12:10,c009,Camila Santos,ifood,PIX,,Água | Taco Carne Assada,Bebidas | Tacos,38,0,38,4.56,6,finalizado,entrega
+P0047,2026-06-04,quinta,almoco,12:43,c014,Diego Castro,balcão,crédito,COMBO29,Quesadilla Camarão,Quesadillas,42,13,29,0,17,finalizado,local
+P0048,2026-06-04,quinta,almoco,13:49,c023,Priscila Lopes,rappi,débito,,Quesadilla Frango | Limonada Mexicana | Taco Camarão,Quesadillas | Bebidas | Tacos,82,0,82,9.84,9,finalizado,entrega
+P0049,2026-06-04,quinta,almoco,12:48,c021,Amanda Teixeira,totem,PIX,,Quesadilla Queijo,Quesadillas,26,0,26,0,15,finalizado,local
+P0050,2026-06-04,quinta,almoco,11:50,c015,Larissa Nunes,totem,débito,,Margarita Maracujá | Margarita Clássica | Cerveja Artesanal,Bebidas | Bebidas | Bebidas,78,0,78,0,15,finalizado,local
+P0051,2026-06-04,quinta,almoco,14:22,c029,Aline Correia,balcão,crédito,NACHO15,Taco Carnitas | Taco Carne Assada | Quesadilla Camarão,Tacos | Tacos | Quesadillas,102,15.3,86.7,0,15,cancelado,local
+P0052,2026-06-04,quinta,tarde,16:30,c025,Natália Freitas,ifood,crédito,,Quesadilla Queijo,Quesadillas,26,0,26,3.12,14,cancelado,entrega
+P0053,2026-06-04,quinta,tarde,16:14,c021,Amanda Teixeira,balcão,PIX,,Margarita Clássica | Taco Carne Assada | Água | Quesadilla Queijo,Bebidas | Tacos | Bebidas | Quesadillas,92,0,92,0,11,cancelado,local
+P0054,2026-06-04,quinta,tarde,16:50,c022,Guilherme Melo,totem,crédito,,Margarita Clássica | Burrito Vegetariano | Agua de Jamaica | Limonada Mexicana,Bebidas | Burritos | Bebidas | Bebidas,82,0,82,0,6,finalizado,viagem
+P0055,2026-06-04,quinta,jantar,17:57,c003,Carla Mendes,totem,PIX,NACHO15,Margarita Maracujá | Taco Carnitas | Cerveja Artesanal | Quesadilla Frango,Bebidas | Tacos | Bebidas | Quesadillas,108,16.2,91.8,0,9,finalizado,local
+P0056,2026-06-04,quinta,jantar,19:57,c020,Rodrigo Pinto,rappi,débito,COMBO29,Burrito Completo | Taco Vegano,Burritos | Tacos,58,29,29,6.96,13,finalizado,entrega
+P0057,2026-06-04,quinta,jantar,22:12,c029,Aline Correia,ifood,débito,,Quesadilla Queijo | Burrito Vegetariano,Quesadillas | Burritos,54,0,54,6.48,6,finalizado,entrega
+P0058,2026-06-04,quinta,jantar,19:59,c018,Felipe Barbosa,balcão,PIX,,Taco Camarão | Taco Vegano | Margarita Clássica | Cerveja Artesanal,Tacos | Tacos | Bebidas | Bebidas,106,0,106,0,14,finalizado,local
+P0059,2026-06-04,quinta,jantar,21:50,c014,Diego Castro,rappi,débito,COMBO29,Água | Taco Vegano | Agua de Jamaica | Taco Camarão,Bebidas | Tacos | Bebidas | Tacos,78,49,29,9.36,17,finalizado,entrega
+P0060,2026-06-04,quinta,jantar,17:31,c029,Aline Correia,totem,crédito,,Nachos Clássicos | Margarita Maracujá | Burrito Completo | Limonada Mexicana,Nachos | Bebidas | Burritos | Bebidas,114,0,114,0,10,finalizado,local
+P0061,2026-06-04,quinta,jantar,22:12,c027,Sabrina Monteiro,balcão,débito,COMBO29,Água | Margarita Clássica | Nachos Carnitas | Quesadilla Queijo,Bebidas | Bebidas | Nachos | Quesadillas,104,75,29,0,18,finalizado,viagem
+P0062,2026-06-04,quinta,jantar,21:32,c015,Larissa Nunes,totem,crédito,,Quesadilla Camarão | Limonada Mexicana | Taco Frango | Quesadilla Queijo,Quesadillas | Bebidas | Tacos | Quesadillas,106,0,106,0,17,finalizado,viagem
+P0063,2026-06-04,quinta,jantar,21:47,c013,Fernanda Gomes,ifood,crédito,,Taco Vegano,Tacos,22,0,22,2.64,15,finalizado,entrega
+P0064,2026-06-04,quinta,jantar,18:49,c011,Juliana Pereira,rappi,PIX,COMBO29,Taco Carnitas | Taco Vegano | Limonada Mexicana | Margarita Clássica,Tacos | Tacos | Bebidas | Bebidas,92,63,29,11.04,7,finalizado,entrega
+P0065,2026-06-04,quinta,jantar,21:39,c016,Mateus Ramos,rappi,PIX,NACHO15,Taco Carne Assada | Nachos Clássicos | Agua de Jamaica | Quesadilla Queijo,Tacos | Nachos | Bebidas | Quesadillas,102,15.3,86.7,12.24,14,cancelado,entrega
+P0066,2026-06-04,quinta,jantar,18:20,c002,Pedro Lima,balcão,PIX,,Taco Carne Assada | Limonada Mexicana,Tacos | Bebidas,46,0,46,0,18,finalizado,local
+P0067,2026-06-05,sexta,almoco,13:05,c006,Lucas Ferreira,ifood,PIX,,Taco Frango | Burrito Vegetariano | Nachos Carnitas,Tacos | Burritos | Nachos,96,0,96,11.52,12,finalizado,entrega
+P0068,2026-06-05,sexta,almoco,11:50,c005,Beatriz Rocha,totem,débito,LIBRE10,Quesadilla Queijo | Água,Quesadillas | Bebidas,32,3.2,28.8,0,15,cancelado,viagem
+P0069,2026-06-05,sexta,almoco,14:13,c020,Rodrigo Pinto,ifood,PIX,COMBO29,Quesadilla Camarão | Cerveja Artesanal,Quesadillas | Bebidas,60,31,29,7.2,10,cancelado,entrega
+P0070,2026-06-05,sexta,almoco,13:23,c015,Larissa Nunes,totem,crédito,,Água | Quesadilla Queijo | Taco Carne Assada,Bebidas | Quesadillas | Tacos,64,0,64,0,11,finalizado,local
+P0071,2026-06-05,sexta,almoco,11:57,c021,Amanda Teixeira,balcão,crédito,,Quesadilla Frango | Agua de Jamaica | Margarita Clássica,Quesadillas | Bebidas | Bebidas,70,0,70,0,9,finalizado,viagem
+P0072,2026-06-05,sexta,almoco,12:40,c019,Tatiana Cardoso,totem,débito,,Agua de Jamaica,Bebidas,12,0,12,0,6,finalizado,local
+P0073,2026-06-05,sexta,almoco,14:12,c030,Henrique Dias,balcão,crédito,COMBO29,Nachos Carnitas | Quesadilla Camarão,Nachos | Quesadillas,86,57,29,0,9,finalizado,local
+P0074,2026-06-05,sexta,almoco,13:22,c022,Guilherme Melo,rappi,crédito,,Burrito Vegetariano,Burritos,28,0,28,3.36,6,finalizado,entrega
+P0075,2026-06-05,sexta,tarde,15:21,c019,Tatiana Cardoso,totem,crédito,,Nachos Clássicos | Limonada Mexicana | Quesadilla Queijo,Nachos | Bebidas | Quesadillas,72,0,72,0,8,finalizado,local
+P0076,2026-06-05,sexta,tarde,14:49,c017,Isabela Moura,balcão,PIX,,Burrito Vegetariano | Nachos Clássicos | Taco Camarão | Quesadilla Camarão,Burritos | Nachos | Tacos | Quesadillas,140,0,140,0,8,finalizado,local
+P0077,2026-06-05,sexta,tarde,15:37,c028,Victor Ribeiro,ifood,crédito,LIBRE10,Taco Carne Assada | Agua de Jamaica | Taco Carnitas,Tacos | Bebidas | Tacos,72,7.2,64.8,8.64,14,cancelado,entrega
+P0078,2026-06-05,sexta,tarde,14:36,c004,João Costa,balcão,PIX,,Nachos Carnitas | Taco Camarão | Quesadilla Camarão | Margarita Clássica,Nachos | Tacos | Quesadillas | Bebidas,152,0,152,0,15,cancelado,local
+P0079,2026-06-05,sexta,jantar,17:53,c030,Henrique Dias,balcão,PIX,,Limonada Mexicana | Taco Camarão | Taco Vegano,Bebidas | Tacos | Tacos,74,0,74,0,6,finalizado,local
+P0080,2026-06-05,sexta,jantar,20:39,c016,Mateus Ramos,totem,PIX,,Agua de Jamaica | Cerveja Artesanal,Bebidas | Bebidas,30,0,30,0,16,cancelado,viagem
+P0081,2026-06-05,sexta,jantar,20:58,c019,Tatiana Cardoso,ifood,crédito,,Margarita Clássica,Bebidas,28,0,28,3.36,10,finalizado,entrega
+P0082,2026-06-05,sexta,jantar,20:38,c002,Pedro Lima,ifood,PIX,,Quesadilla Camarão | Nachos Carnitas | Taco Camarão | Nachos Clássicos,Quesadillas | Nachos | Tacos | Nachos,156,0,156,18.72,14,finalizado,entrega
+P0083,2026-06-05,sexta,jantar,18:16,c029,Aline Correia,ifood,PIX,,Quesadilla Frango | Taco Camarão | Cerveja Artesanal,Quesadillas | Tacos | Bebidas,86,0,86,10.32,16,finalizado,entrega
+P0084,2026-06-05,sexta,jantar,18:05,c007,Mariana Silva,ifood,crédito,,Quesadilla Camarão | Taco Vegano | Quesadilla Frango,Quesadillas | Tacos | Quesadillas,94,0,94,11.28,18,finalizado,entrega
+P0085,2026-06-05,sexta,jantar,18:44,c018,Felipe Barbosa,totem,débito,,Taco Vegano | Taco Carnitas | Burrito Completo,Tacos | Tacos | Burritos,86,0,86,0,8,finalizado,local
+P0086,2026-06-05,sexta,jantar,19:31,c026,Leonardo Cruz,totem,PIX,,Nachos Carnitas,Nachos,44,0,44,0,15,finalizado,local
+P0087,2026-06-05,sexta,jantar,21:19,c001,Ana Souza,totem,PIX,,Margarita Maracujá | Taco Camarão | Taco Carne Assada | Quesadilla Camarão,Bebidas | Tacos | Tacos | Quesadillas,144,0,144,0,18,finalizado,local
+P0088,2026-06-05,sexta,jantar,20:04,c017,Isabela Moura,balcão,PIX,COMBO29,Taco Frango | Margarita Maracujá,Tacos | Bebidas,56,27,29,0,13,cancelado,local
+P0089,2026-06-05,sexta,jantar,21:17,c002,Pedro Lima,balcão,crédito,LIBRE10,Margarita Clássica,Bebidas,28,2.8,25.2,0,7,finalizado,local
+P0090,2026-06-05,sexta,jantar,22:01,c011,Juliana Pereira,balcão,PIX,,Água | Nachos Clássicos | Agua de Jamaica,Bebidas | Nachos | Bebidas,50,0,50,0,10,finalizado,viagem
+P0091,2026-06-05,sexta,jantar,19:26,c017,Isabela Moura,balcão,débito,,Limonada Mexicana | Cerveja Artesanal,Bebidas | Bebidas,32,0,32,0,12,finalizado,local
+P0092,2026-06-05,sexta,jantar,20:41,c027,Sabrina Monteiro,balcão,débito,LIBRE10,Limonada Mexicana | Nachos Clássicos | Burrito Completo,Bebidas | Nachos | Burritos,82,8.2,73.8,0,8,finalizado,viagem
+P0093,2026-06-05,sexta,jantar,18:00,c003,Carla Mendes,totem,crédito,,Taco Camarão | Nachos Carnitas | Taco Vegano | Burrito Completo,Tacos | Nachos | Tacos | Burritos,140,0,140,0,15,finalizado,local
+P0094,2026-06-05,sexta,jantar,20:09,c022,Guilherme Melo,totem,débito,NACHO15,Burrito Vegetariano,Burritos,28,4.2,23.8,0,11,finalizado,local
+P0095,2026-06-05,sexta,jantar,22:14,c019,Tatiana Cardoso,balcão,PIX,,Taco Camarão | Nachos Carnitas,Tacos | Nachos,82,0,82,0,11,finalizado,local
+P0096,2026-06-05,sexta,jantar,17:44,c025,Natália Freitas,totem,débito,,Burrito Completo,Burritos,36,0,36,0,8,finalizado,local
+P0097,2026-06-05,sexta,jantar,18:43,c023,Priscila Lopes,rappi,PIX,NACHO15,Quesadilla Queijo,Quesadillas,26,3.9,22.1,3.12,15,finalizado,entrega
+P0098,2026-06-05,sexta,jantar,19:20,c022,Guilherme Melo,balcão,PIX,,Margarita Maracujá,Bebidas,32,0,32,0,12,finalizado,viagem
+P0099,2026-06-05,sexta,jantar,18:50,c015,Larissa Nunes,totem,PIX,NACHO15,Taco Carne Assada | Taco Frango | Taco Vegano,Tacos | Tacos | Tacos,78,11.7,66.3,0,18,finalizado,local
+P0100,2026-06-05,sexta,jantar,21:52,c022,Guilherme Melo,totem,PIX,COMBO29,Cerveja Artesanal | Limonada Mexicana | Burrito Completo | Taco Camarão,Bebidas | Bebidas | Burritos | Tacos,106,77,29,0,7,finalizado,local
+P0101,2026-06-06,sábado,almoco,14:03,c004,João Costa,totem,crédito,COMBO29,Taco Frango | Quesadilla Camarão | Agua de Jamaica,Tacos | Quesadillas | Bebidas,78,49,29,0,6,cancelado,local
+P0102,2026-06-06,sábado,almoco,13:37,c007,Mariana Silva,totem,PIX,,Nachos Clássicos | Taco Camarão | Taco Carnitas,Nachos | Tacos | Tacos,98,0,98,0,17,finalizado,viagem
+P0103,2026-06-06,sábado,almoco,13:21,c006,Lucas Ferreira,totem,débito,,Taco Carne Assada | Agua de Jamaica | Taco Frango,Tacos | Bebidas | Tacos,68,0,68,0,6,cancelado,viagem
+P0104,2026-06-06,sábado,almoco,13:13,c030,Henrique Dias,totem,crédito,NACHO15,Agua de Jamaica | Limonada Mexicana | Burrito Vegetariano | Taco Frango,Bebidas | Bebidas | Burritos | Tacos,78,11.7,66.3,0,6,cancelado,local
+P0105,2026-06-06,sábado,almoco,11:57,c006,Lucas Ferreira,rappi,débito,COMBO29,Limonada Mexicana,Bebidas,14,0,14,1.68,9,finalizado,entrega
+P0106,2026-06-06,sábado,almoco,12:13,c014,Diego Castro,balcão,débito,,Nachos Clássicos | Quesadilla Camarão | Água,Nachos | Quesadillas | Bebidas,80,0,80,0,7,finalizado,local
+P0107,2026-06-06,sábado,almoco,12:07,c017,Isabela Moura,balcão,PIX,NACHO15,Quesadilla Camarão | Taco Camarão,Quesadillas | Tacos,80,12.0,68.0,0,10,finalizado,local
+P0108,2026-06-06,sábado,almoco,14:10,c006,Lucas Ferreira,balcão,PIX,,Cerveja Artesanal | Água | Nachos Clássicos | Limonada Mexicana,Bebidas | Bebidas | Nachos | Bebidas,70,0,70,0,11,finalizado,local
+P0109,2026-06-06,sábado,almoco,12:49,c015,Larissa Nunes,totem,débito,COMBO29,Taco Frango | Nachos Carnitas | Taco Carne Assada,Tacos | Nachos | Tacos,100,71,29,0,13,finalizado,viagem
+P0110,2026-06-06,sábado,almoco,13:08,c002,Pedro Lima,totem,PIX,,Margarita Maracujá,Bebidas,32,0,32,0,13,finalizado,local
+P0111,2026-06-06,sábado,almoco,11:56,c015,Larissa Nunes,rappi,débito,,Margarita Maracujá | Taco Vegano | Taco Frango | Quesadilla Camarão,Bebidas | Tacos | Tacos | Quesadillas,120,0,120,14.4,18,finalizado,entrega
+P0112,2026-06-06,sábado,almoco,13:22,c029,Aline Correia,rappi,PIX,,Taco Frango | Quesadilla Camarão,Tacos | Quesadillas,66,0,66,7.92,13,cancelado,entrega
+P0113,2026-06-06,sábado,tarde,15:56,c017,Isabela Moura,balcão,débito,,Burrito Vegetariano | Agua de Jamaica | Limonada Mexicana,Burritos | Bebidas | Bebidas,54,0,54,0,16,finalizado,local
+P0114,2026-06-06,sábado,tarde,15:34,c026,Leonardo Cruz,ifood,crédito,NACHO15,Taco Camarão | Agua de Jamaica | Burrito Vegetariano,Tacos | Bebidas | Burritos,78,11.7,66.3,9.36,17,finalizado,entrega
+P0115,2026-06-06,sábado,tarde,15:59,c028,Victor Ribeiro,ifood,débito,,Taco Vegano,Tacos,22,0,22,2.64,10,finalizado,entrega
+P0116,2026-06-06,sábado,tarde,16:53,c021,Amanda Teixeira,ifood,crédito,LIBRE10,Burrito Vegetariano,Burritos,28,2.8,25.2,3.36,12,finalizado,entrega
+P0117,2026-06-06,sábado,tarde,16:40,c021,Amanda Teixeira,rappi,PIX,,Limonada Mexicana,Bebidas,14,0,14,1.68,11,cancelado,entrega
+P0118,2026-06-06,sábado,tarde,15:05,c001,Ana Souza,totem,PIX,,Margarita Clássica | Quesadilla Frango | Quesadilla Camarão,Bebidas | Quesadillas | Quesadillas,100,0,100,0,8,finalizado,local
+P0119,2026-06-06,sábado,jantar,18:37,c010,Thiago Alves,rappi,crédito,,Nachos Clássicos,Nachos,32,0,32,3.84,15,cancelado,entrega
+P0120,2026-06-06,sábado,jantar,21:00,c013,Fernanda Gomes,totem,PIX,,Cerveja Artesanal | Taco Frango,Bebidas | Tacos,42,0,42,0,11,cancelado,local
+P0121,2026-06-06,sábado,jantar,19:09,c015,Larissa Nunes,balcão,PIX,COMBO29,Burrito Vegetariano | Margarita Clássica,Burritos | Bebidas,56,27,29,0,11,finalizado,viagem
+P0122,2026-06-06,sábado,jantar,19:38,c015,Larissa Nunes,rappi,PIX,LIBRE10,Quesadilla Queijo | Quesadilla Frango | Taco Vegano | Limonada Mexicana,Quesadillas | Quesadillas | Tacos | Bebidas,92,9.2,82.8,11.04,6,cancelado,entrega
+P0123,2026-06-06,sábado,jantar,18:33,c021,Amanda Teixeira,balcão,crédito,NACHO15,Margarita Maracujá,Bebidas,32,4.8,27.2,0,10,cancelado,local
+P0124,2026-06-06,sábado,jantar,19:23,c025,Natália Freitas,totem,PIX,COMBO29,Limonada Mexicana | Taco Carne Assada,Bebidas | Tacos,46,17,29,0,13,cancelado,local
+P0125,2026-06-06,sábado,jantar,20:41,c030,Henrique Dias,totem,débito,,Quesadilla Camarão | Agua de Jamaica | Taco Carne Assada,Quesadillas | Bebidas | Tacos,86,0,86,0,9,finalizado,local
+P0126,2026-06-06,sábado,jantar,21:31,c011,Juliana Pereira,totem,crédito,NACHO15,Taco Frango | Burrito Vegetariano,Tacos | Burritos,52,7.8,44.2,0,17,finalizado,local
+P0127,2026-06-06,sábado,jantar,17:39,c025,Natália Freitas,ifood,débito,COMBO29,Taco Carne Assada,Tacos,32,3,29,3.84,10,cancelado,entrega
+P0128,2026-06-06,sábado,jantar,17:54,c007,Mariana Silva,rappi,PIX,LIBRE10,Quesadilla Camarão | Burrito Vegetariano | Taco Camarão,Quesadillas | Burritos | Tacos,108,10.8,97.2,12.96,9,finalizado,entrega
+P0129,2026-06-06,sábado,jantar,22:04,c014,Diego Castro,ifood,crédito,COMBO29,Margarita Clássica,Bebidas,28,0,28,3.36,6,finalizado,entrega
+P0130,2026-06-06,sábado,jantar,19:33,c021,Amanda Teixeira,balcão,débito,,Limonada Mexicana | Taco Carnitas | Nachos Carnitas,Bebidas | Tacos | Nachos,86,0,86,0,15,finalizado,viagem
+P0131,2026-06-06,sábado,jantar,20:49,c006,Lucas Ferreira,ifood,crédito,,Taco Carne Assada | Margarita Maracujá | Taco Carnitas,Tacos | Bebidas | Tacos,92,0,92,11.04,13,cancelado,entrega
+P0132,2026-06-06,sábado,jantar,18:04,c002,Pedro Lima,ifood,débito,NACHO15,Nachos Carnitas,Nachos,44,6.6,37.4,5.28,11,finalizado,entrega
+P0133,2026-06-06,sábado,jantar,22:09,c008,Rafael Oliveira,ifood,crédito,,Taco Vegano | Taco Frango | Nachos Carnitas,Tacos | Tacos | Nachos,90,0,90,10.8,11,cancelado,entrega
+P0134,2026-06-06,sábado,jantar,21:24,c027,Sabrina Monteiro,ifood,PIX,COMBO29,Taco Vegano | Taco Carne Assada,Tacos | Tacos,54,25,29,6.48,6,finalizado,entrega
+P0135,2026-06-06,sábado,jantar,22:08,c010,Thiago Alves,totem,PIX,,Burrito Vegetariano | Margarita Maracujá | Agua de Jamaica,Burritos | Bebidas | Bebidas,72,0,72,0,13,finalizado,local
+P0136,2026-06-06,sábado,jantar,18:33,c002,Pedro Lima,rappi,crédito,,Taco Frango | Nachos Clássicos | Burrito Completo,Tacos | Nachos | Burritos,92,0,92,11.04,18,finalizado,entrega
+P0137,2026-06-06,sábado,jantar,20:38,c012,Bruno Martins,balcão,débito,COMBO29,Quesadilla Queijo | Margarita Clássica | Margarita Maracujá,Quesadillas | Bebidas | Bebidas,86,57,29,0,18,finalizado,local
+P0138,2026-06-06,sábado,jantar,18:10,c026,Leonardo Cruz,totem,crédito,LIBRE10,Quesadilla Queijo | Burrito Vegetariano | Nachos Clássicos | Taco Frango,Quesadillas | Burritos | Nachos | Tacos,110,11.0,99.0,0,11,finalizado,local
+P0139,2026-06-06,sábado,jantar,20:30,c010,Thiago Alves,balcão,débito,LIBRE10,Nachos Carnitas | Cerveja Artesanal | Taco Frango | Água,Nachos | Bebidas | Tacos | Bebidas,92,9.2,82.8,0,15,finalizado,viagem
+P0140,2026-06-06,sábado,jantar,18:43,c009,Camila Santos,ifood,crédito,,Nachos Carnitas | Margarita Maracujá | Quesadilla Queijo | Taco Carnitas,Nachos | Bebidas | Quesadillas | Tacos,130,0,130,15.6,15,finalizado,entrega
+P0141,2026-06-06,sábado,jantar,20:37,c022,Guilherme Melo,rappi,débito,,Quesadilla Camarão,Quesadillas,42,0,42,5.04,11,finalizado,entrega
+P0142,2026-06-06,sábado,jantar,22:23,c013,Fernanda Gomes,balcão,PIX,,Nachos Carnitas | Cerveja Artesanal | Taco Carne Assada,Nachos | Bebidas | Tacos,94,0,94,0,8,finalizado,local
+P0143,2026-06-06,sábado,jantar,19:05,c013,Fernanda Gomes,totem,crédito,,Taco Carnitas,Tacos,28,0,28,0,13,finalizado,viagem
+P0144,2026-06-07,domingo,almoco,12:04,c009,Camila Santos,rappi,PIX,COMBO29,Margarita Clássica | Quesadilla Frango | Taco Camarão,Bebidas | Quesadillas | Tacos,96,67,29,11.52,7,finalizado,entrega
+P0145,2026-06-07,domingo,almoco,12:46,c015,Larissa Nunes,totem,crédito,COMBO29,Nachos Carnitas | Taco Carne Assada | Burrito Vegetariano,Nachos | Tacos | Burritos,104,75,29,0,8,finalizado,local
+P0146,2026-06-07,domingo,almoco,13:36,c026,Leonardo Cruz,totem,débito,,Taco Vegano | Quesadilla Camarão,Tacos | Quesadillas,64,0,64,0,6,finalizado,local
+P0147,2026-06-07,domingo,almoco,12:49,c018,Felipe Barbosa,balcão,PIX,COMBO29,Taco Carne Assada | Água,Tacos | Bebidas,38,9,29,0,12,cancelado,viagem
+P0148,2026-06-07,domingo,almoco,12:51,c017,Isabela Moura,balcão,crédito,LIBRE10,Taco Vegano,Tacos,22,2.2,19.8,0,16,cancelado,local
+P0149,2026-06-07,domingo,almoco,13:38,c015,Larissa Nunes,balcão,crédito,NACHO15,Taco Vegano | Limonada Mexicana,Tacos | Bebidas,36,5.4,30.6,0,6,finalizado,local
+P0150,2026-06-07,domingo,almoco,11:50,c017,Isabela Moura,totem,PIX,,Quesadilla Camarão | Nachos Carnitas | Burrito Vegetariano,Quesadillas | Nachos | Burritos,114,0,114,0,10,finalizado,local
+P0151,2026-06-07,domingo,almoco,14:14,c021,Amanda Teixeira,balcão,PIX,,Margarita Maracujá,Bebidas,32,0,32,0,8,finalizado,local
+P0152,2026-06-07,domingo,almoco,11:50,c006,Lucas Ferreira,ifood,débito,NACHO15,Taco Carnitas,Tacos,28,4.2,23.8,3.36,6,cancelado,entrega
+P0153,2026-06-07,domingo,almoco,12:47,c021,Amanda Teixeira,rappi,débito,,Taco Carnitas | Margarita Clássica | Burrito Vegetariano | Nachos Clássicos,Tacos | Bebidas | Burritos | Nachos,116,0,116,13.92,13,finalizado,entrega
+P0154,2026-06-07,domingo,tarde,16:16,c008,Rafael Oliveira,rappi,crédito,LIBRE10,Taco Carne Assada | Taco Frango | Quesadilla Queijo | Quesadilla Camarão,Tacos | Tacos | Quesadillas | Quesadillas,124,12.4,111.6,14.88,13,finalizado,entrega
+P0155,2026-06-07,domingo,tarde,16:04,c015,Larissa Nunes,totem,PIX,,Nachos Carnitas | Agua de Jamaica | Taco Vegano,Nachos | Bebidas | Tacos,78,0,78,0,14,finalizado,local
+P0156,2026-06-07,domingo,tarde,15:44,c011,Juliana Pereira,totem,débito,,Quesadilla Camarão | Taco Vegano | Taco Camarão | Taco Carnitas,Quesadillas | Tacos | Tacos | Tacos,130,0,130,0,12,finalizado,viagem
+P0157,2026-06-07,domingo,tarde,16:41,c008,Rafael Oliveira,rappi,PIX,NACHO15,Quesadilla Frango | Quesadilla Queijo | Margarita Clássica,Quesadillas | Quesadillas | Bebidas,84,12.6,71.4,10.08,13,cancelado,entrega
+P0158,2026-06-07,domingo,tarde,16:59,c016,Mateus Ramos,totem,débito,,Margarita Maracujá | Cerveja Artesanal | Quesadilla Camarão | Taco Camarão,Bebidas | Bebidas | Quesadillas | Tacos,130,0,130,0,11,finalizado,local
+P0159,2026-06-07,domingo,jantar,21:10,c002,Pedro Lima,totem,débito,COMBO29,Taco Camarão,Tacos,38,9,29,0,8,finalizado,local
+P0160,2026-06-07,domingo,jantar,17:56,c024,Eduardo Vieira,totem,crédito,LIBRE10,Agua de Jamaica,Bebidas,12,1.2,10.8,0,15,finalizado,local
+P0161,2026-06-07,domingo,jantar,18:19,c012,Bruno Martins,balcão,PIX,,Água | Burrito Completo | Taco Camarão | Taco Carne Assada,Bebidas | Burritos | Tacos | Tacos,112,0,112,0,12,finalizado,local
+P0162,2026-06-07,domingo,jantar,21:46,c026,Leonardo Cruz,totem,débito,NACHO15,Margarita Maracujá | Agua de Jamaica,Bebidas | Bebidas,44,6.6,37.4,0,6,finalizado,local
+P0163,2026-06-07,domingo,jantar,20:13,c002,Pedro Lima,totem,crédito,NACHO15,Taco Vegano | Margarita Maracujá | Água | Quesadilla Queijo,Tacos | Bebidas | Bebidas | Quesadillas,86,12.9,73.1,0,8,finalizado,viagem
+P0164,2026-06-07,domingo,jantar,22:18,c020,Rodrigo Pinto,ifood,crédito,,Margarita Maracujá | Água | Margarita Clássica,Bebidas | Bebidas | Bebidas,66,0,66,7.92,10,cancelado,entrega
+P0165,2026-06-07,domingo,jantar,22:28,c016,Mateus Ramos,rappi,PIX,NACHO15,Limonada Mexicana,Bebidas,14,2.1,11.9,1.68,10,finalizado,entrega
+P0166,2026-06-07,domingo,jantar,21:35,c026,Leonardo Cruz,ifood,crédito,,Burrito Completo | Quesadilla Camarão | Taco Frango | Burrito Vegetariano,Burritos | Quesadillas | Tacos | Burritos,130,0,130,15.6,8,cancelado,entrega
+P0167,2026-06-07,domingo,jantar,19:07,c017,Isabela Moura,ifood,crédito,LIBRE10,Taco Frango | Taco Camarão,Tacos | Tacos,62,6.2,55.8,7.44,6,finalizado,entrega
+P0168,2026-06-07,domingo,jantar,21:31,c015,Larissa Nunes,totem,débito,,Limonada Mexicana | Margarita Maracujá,Bebidas | Bebidas,46,0,46,0,17,finalizado,local
+P0169,2026-06-07,domingo,jantar,20:10,c023,Priscila Lopes,totem,débito,,Margarita Clássica | Margarita Maracujá | Agua de Jamaica,Bebidas | Bebidas | Bebidas,72,0,72,0,8,cancelado,viagem
+P0170,2026-06-07,domingo,jantar,20:02,c030,Henrique Dias,balcão,PIX,NACHO15,Quesadilla Frango | Quesadilla Camarão | Burrito Completo | Margarita Clássica,Quesadillas | Quesadillas | Burritos | Bebidas,136,20.4,115.6,0,9,finalizado,local
+P0171,2026-06-07,domingo,jantar,19:57,c025,Natália Freitas,totem,crédito,,Margarita Clássica | Nachos Carnitas | Burrito Completo,Bebidas | Nachos | Burritos,108,0,108,0,7,finalizado,viagem
+P0172,2026-06-07,domingo,jantar,20:27,c029,Aline Correia,balcão,crédito,NACHO15,Taco Frango | Burrito Vegetariano | Taco Carne Assada,Tacos | Burritos | Tacos,84,12.6,71.4,0,13,finalizado,local
+P0173,2026-06-08,segunda,almoco,12:32,c007,Mariana Silva,totem,crédito,,Taco Vegano | Taco Camarão | Quesadilla Camarão,Tacos | Tacos | Quesadillas,102,0,102,0,6,cancelado,local
+P0174,2026-06-08,segunda,almoco,11:31,c021,Amanda Teixeira,totem,PIX,,Margarita Clássica | Taco Camarão | Taco Vegano,Bebidas | Tacos | Tacos,88,0,88,0,14,finalizado,local
+P0175,2026-06-08,segunda,almoco,11:52,c014,Diego Castro,ifood,débito,COMBO29,Nachos Clássicos | Burrito Vegetariano | Taco Frango,Nachos | Burritos | Tacos,84,55,29,10.08,16,finalizado,entrega
+P0176,2026-06-08,segunda,almoco,13:36,c019,Tatiana Cardoso,totem,débito,,Quesadilla Queijo | Taco Frango | Agua de Jamaica | Margarita Clássica,Quesadillas | Tacos | Bebidas | Bebidas,90,0,90,0,8,finalizado,local
+P0177,2026-06-08,segunda,tarde,15:42,c029,Aline Correia,totem,PIX,,Nachos Clássicos,Nachos,32,0,32,0,13,cancelado,viagem
+P0178,2026-06-08,segunda,tarde,15:11,c029,Aline Correia,totem,crédito,COMBO29,Taco Camarão | Nachos Clássicos,Tacos | Nachos,70,41,29,0,17,finalizado,viagem
+P0179,2026-06-08,segunda,jantar,20:57,c021,Amanda Teixeira,totem,crédito,,Burrito Vegetariano | Quesadilla Frango | Quesadilla Queijo,Burritos | Quesadillas | Quesadillas,84,0,84,0,12,finalizado,local
+P0180,2026-06-08,segunda,jantar,19:37,c003,Carla Mendes,balcão,crédito,,Margarita Clássica | Nachos Clássicos,Bebidas | Nachos,60,0,60,0,6,finalizado,local
+P0181,2026-06-08,segunda,jantar,19:30,c013,Fernanda Gomes,totem,débito,,Taco Carnitas | Burrito Completo | Nachos Carnitas,Tacos | Burritos | Nachos,108,0,108,0,6,finalizado,local
+P0182,2026-06-08,segunda,jantar,19:23,c015,Larissa Nunes,totem,PIX,LIBRE10,Taco Camarão | Burrito Vegetariano | Nachos Carnitas,Tacos | Burritos | Nachos,110,11.0,99.0,0,9,cancelado,local
+P0183,2026-06-08,segunda,jantar,18:11,c016,Mateus Ramos,totem,débito,NACHO15,Água | Quesadilla Frango | Quesadilla Camarão | Nachos Clássicos,Bebidas | Quesadillas | Quesadillas | Nachos,110,16.5,93.5,0,14,finalizado,viagem
+P0184,2026-06-08,segunda,jantar,22:10,c017,Isabela Moura,ifood,PIX,,Taco Frango,Tacos,24,0,24,2.88,14,cancelado,entrega
+P0185,2026-06-09,terça,almoco,13:40,c019,Tatiana Cardoso,balcão,PIX,,Taco Camarão | Quesadilla Frango | Margarita Clássica | Taco Frango,Tacos | Quesadillas | Bebidas | Tacos,120,0,120,0,13,finalizado,local
+P0186,2026-06-09,terça,almoco,13:28,c015,Larissa Nunes,totem,débito,LIBRE10,Água,Bebidas,6,0.6,5.4,0,16,finalizado,local
+P0187,2026-06-09,terça,almoco,13:18,c024,Eduardo Vieira,totem,débito,,Taco Carne Assada | Taco Frango,Tacos | Tacos,56,0,56,0,11,finalizado,local
+P0188,2026-06-09,terça,almoco,14:14,c018,Felipe Barbosa,totem,PIX,COMBO29,Limonada Mexicana | Quesadilla Queijo | Taco Vegano,Bebidas | Quesadillas | Tacos,62,33,29,0,17,finalizado,viagem
+P0189,2026-06-09,terça,almoco,12:04,c012,Bruno Martins,balcão,débito,LIBRE10,Água,Bebidas,6,0.6,5.4,0,16,finalizado,local
+P0190,2026-06-09,terça,tarde,14:35,c004,João Costa,totem,débito,LIBRE10,Quesadilla Camarão | Taco Carnitas,Quesadillas | Tacos,70,7.0,63.0,0,10,cancelado,viagem
+P0191,2026-06-09,terça,tarde,15:09,c022,Guilherme Melo,ifood,débito,LIBRE10,Quesadilla Camarão | Água | Cerveja Artesanal | Quesadilla Queijo,Quesadillas | Bebidas | Bebidas | Quesadillas,92,9.2,82.8,11.04,10,cancelado,entrega
+P0192,2026-06-09,terça,jantar,18:21,c007,Mariana Silva,ifood,crédito,,Taco Carnitas | Quesadilla Camarão | Quesadilla Frango | Taco Frango,Tacos | Quesadillas | Quesadillas | Tacos,124,0,124,14.88,15,finalizado,entrega
+P0193,2026-06-09,terça,jantar,21:14,c002,Pedro Lima,balcão,débito,,Agua de Jamaica,Bebidas,12,0,12,0,9,finalizado,local
+P0194,2026-06-09,terça,jantar,19:31,c025,Natália Freitas,rappi,crédito,,Quesadilla Camarão | Nachos Clássicos | Margarita Maracujá,Quesadillas | Nachos | Bebidas,106,0,106,12.72,10,finalizado,entrega
+P0195,2026-06-09,terça,jantar,21:08,c029,Aline Correia,totem,crédito,,Burrito Completo | Taco Frango | Quesadilla Queijo,Burritos | Tacos | Quesadillas,86,0,86,0,14,finalizado,viagem
+P0196,2026-06-09,terça,jantar,20:03,c002,Pedro Lima,totem,crédito,LIBRE10,Limonada Mexicana | Água | Taco Vegano,Bebidas | Bebidas | Tacos,42,4.2,37.8,0,12,cancelado,local
+P0197,2026-06-09,terça,jantar,22:17,c025,Natália Freitas,balcão,débito,,Taco Vegano | Cerveja Artesanal | Taco Frango,Tacos | Bebidas | Tacos,64,0,64,0,12,finalizado,viagem
+P0198,2026-06-09,terça,jantar,21:20,c018,Felipe Barbosa,balcão,PIX,LIBRE10,Quesadilla Frango | Nachos Clássicos | Taco Carne Assada,Quesadillas | Nachos | Tacos,94,9.4,84.6,0,11,finalizado,local
+P0199,2026-06-10,quarta,almoco,13:32,c002,Pedro Lima,totem,débito,,Água | Quesadilla Frango,Bebidas | Quesadillas,36,0,36,0,9,finalizado,local
+P0200,2026-06-10,quarta,almoco,12:31,c010,Thiago Alves,totem,PIX,,Quesadilla Camarão | Quesadilla Frango | Agua de Jamaica | Cerveja Artesanal,Quesadillas | Quesadillas | Bebidas | Bebidas,102,0,102,0,14,finalizado,local
+P0201,2026-06-10,quarta,almoco,13:41,c025,Natália Freitas,totem,débito,COMBO29,Burrito Vegetariano | Burrito Completo | Nachos Carnitas,Burritos | Burritos | Nachos,108,79,29,0,13,cancelado,viagem
+P0202,2026-06-10,quarta,almoco,13:15,c004,João Costa,rappi,crédito,COMBO29,Nachos Carnitas | Nachos Clássicos,Nachos | Nachos,76,47,29,9.12,6,finalizado,entrega
+P0203,2026-06-10,quarta,almoco,12:09,c019,Tatiana Cardoso,rappi,PIX,,Água | Limonada Mexicana | Burrito Vegetariano,Bebidas | Bebidas | Burritos,48,0,48,5.76,9,finalizado,entrega
+P0204,2026-06-10,quarta,almoco,13:27,c011,Juliana Pereira,totem,débito,,Burrito Completo | Margarita Clássica | Margarita Maracujá,Burritos | Bebidas | Bebidas,96,0,96,0,8,finalizado,local
+P0205,2026-06-10,quarta,tarde,14:38,c006,Lucas Ferreira,totem,crédito,COMBO29,Margarita Maracujá,Bebidas,32,3,29,0,7,finalizado,local
+P0206,2026-06-10,quarta,tarde,14:32,c025,Natália Freitas,totem,débito,,Taco Vegano,Tacos,22,0,22,0,9,finalizado,viagem
+P0207,2026-06-10,quarta,tarde,16:46,c012,Bruno Martins,totem,débito,COMBO29,Taco Carnitas,Tacos,28,0,28,0,14,finalizado,viagem
+P0208,2026-06-10,quarta,jantar,19:01,c001,Ana Souza,totem,débito,,Taco Carnitas | Margarita Maracujá | Limonada Mexicana,Tacos | Bebidas | Bebidas,74,0,74,0,7,cancelado,local
+P0209,2026-06-10,quarta,jantar,18:10,c017,Isabela Moura,totem,PIX,,Nachos Carnitas | Burrito Completo | Agua de Jamaica,Nachos | Burritos | Bebidas,92,0,92,0,11,cancelado,viagem
+P0210,2026-06-10,quarta,jantar,18:17,c015,Larissa Nunes,balcão,PIX,,Taco Frango,Tacos,24,0,24,0,12,finalizado,viagem
+P0211,2026-06-10,quarta,jantar,21:12,c013,Fernanda Gomes,balcão,débito,,Taco Carne Assada | Margarita Clássica,Tacos | Bebidas,60,0,60,0,16,finalizado,local
+P0212,2026-06-10,quarta,jantar,17:53,c019,Tatiana Cardoso,rappi,PIX,,Margarita Clássica | Burrito Completo,Bebidas | Burritos,64,0,64,7.68,7,finalizado,entrega
+P0213,2026-06-10,quarta,jantar,20:53,c022,Guilherme Melo,totem,débito,,Taco Carnitas | Quesadilla Frango | Taco Vegano,Tacos | Quesadillas | Tacos,80,0,80,0,7,finalizado,local
+P0214,2026-06-10,quarta,jantar,21:46,c006,Lucas Ferreira,balcão,PIX,LIBRE10,Agua de Jamaica | Taco Vegano | Taco Carne Assada,Bebidas | Tacos | Tacos,66,6.6,59.4,0,17,cancelado,local
+P0215,2026-06-10,quarta,jantar,19:49,c002,Pedro Lima,totem,débito,,Agua de Jamaica | Nachos Clássicos | Taco Carnitas,Bebidas | Nachos | Tacos,72,0,72,0,18,finalizado,viagem
+P0216,2026-06-10,quarta,jantar,20:01,c016,Mateus Ramos,totem,PIX,LIBRE10,Agua de Jamaica | Taco Carne Assada,Bebidas | Tacos,44,4.4,39.6,0,18,finalizado,local
+P0217,2026-06-11,quinta,almoco,11:31,c003,Carla Mendes,totem,PIX,LIBRE10,Nachos Clássicos | Nachos Carnitas | Taco Camarão | Taco Frango,Nachos | Nachos | Tacos | Tacos,138,13.8,124.2,0,10,finalizado,viagem
+P0218,2026-06-11,quinta,almoco,13:20,c012,Bruno Martins,rappi,PIX,,Quesadilla Queijo,Quesadillas,26,0,26,3.12,13,finalizado,entrega
+P0219,2026-06-11,quinta,almoco,13:00,c018,Felipe Barbosa,balcão,débito,LIBRE10,Taco Carne Assada,Tacos,32,3.2,28.8,0,14,finalizado,local
+P0220,2026-06-11,quinta,almoco,13:15,c020,Rodrigo Pinto,balcão,crédito,NACHO15,Burrito Vegetariano,Burritos,28,4.2,23.8,0,12,finalizado,local
+P0221,2026-06-11,quinta,almoco,12:47,c024,Eduardo Vieira,balcão,PIX,,Taco Vegano | Burrito Completo,Tacos | Burritos,58,0,58,0,10,finalizado,viagem
+P0222,2026-06-11,quinta,almoco,12:34,c005,Beatriz Rocha,totem,PIX,LIBRE10,Burrito Vegetariano | Margarita Clássica | Taco Carne Assada | Quesadilla Queijo,Burritos | Bebidas | Tacos | Quesadillas,114,11.4,102.6,0,9,finalizado,viagem
+P0223,2026-06-11,quinta,almoco,13:11,c020,Rodrigo Pinto,balcão,PIX,COMBO29,Burrito Vegetariano | Taco Carnitas,Burritos | Tacos,56,27,29,0,11,finalizado,viagem
+P0224,2026-06-11,quinta,tarde,17:27,c026,Leonardo Cruz,rappi,PIX,COMBO29,Taco Vegano | Burrito Vegetariano | Nachos Clássicos | Margarita Maracujá,Tacos | Burritos | Nachos | Bebidas,114,85,29,13.68,9,finalizado,entrega
+P0225,2026-06-11,quinta,tarde,16:06,c016,Mateus Ramos,totem,PIX,LIBRE10,Margarita Clássica | Quesadilla Camarão | Nachos Clássicos,Bebidas | Quesadillas | Nachos,102,10.2,91.8,0,10,finalizado,viagem
+P0226,2026-06-11,quinta,tarde,16:28,c012,Bruno Martins,totem,débito,,Água | Taco Carnitas,Bebidas | Tacos,34,0,34,0,17,cancelado,local
+P0227,2026-06-11,quinta,jantar,18:48,c015,Larissa Nunes,rappi,PIX,,Taco Vegano | Burrito Vegetariano | Quesadilla Camarão | Água,Tacos | Burritos | Quesadillas | Bebidas,98,0,98,11.76,17,finalizado,entrega
+P0228,2026-06-11,quinta,jantar,17:48,c014,Diego Castro,rappi,débito,,Agua de Jamaica | Margarita Maracujá | Limonada Mexicana | Burrito Completo,Bebidas | Bebidas | Bebidas | Burritos,94,0,94,11.28,18,finalizado,entrega
+P0229,2026-06-11,quinta,jantar,17:52,c012,Bruno Martins,ifood,crédito,,Nachos Carnitas | Quesadilla Queijo,Nachos | Quesadillas,70,0,70,8.4,15,finalizado,entrega
+P0230,2026-06-11,quinta,jantar,19:23,c021,Amanda Teixeira,ifood,crédito,LIBRE10,Taco Camarão | Taco Carnitas | Água | Taco Vegano,Tacos | Tacos | Bebidas | Tacos,94,9.4,84.6,11.28,14,finalizado,entrega
+P0231,2026-06-11,quinta,jantar,20:26,c024,Eduardo Vieira,balcão,débito,,Agua de Jamaica | Cerveja Artesanal | Taco Vegano,Bebidas | Bebidas | Tacos,52,0,52,0,6,finalizado,viagem
+P0232,2026-06-11,quinta,jantar,20:25,c004,João Costa,totem,débito,,Nachos Carnitas | Burrito Vegetariano,Nachos | Burritos,72,0,72,0,13,finalizado,local
+P0233,2026-06-11,quinta,jantar,17:52,c017,Isabela Moura,balcão,PIX,COMBO29,Cerveja Artesanal | Nachos Clássicos | Taco Carne Assada | Taco Vegano,Bebidas | Nachos | Tacos | Tacos,104,75,29,0,18,finalizado,local
+P0234,2026-06-11,quinta,jantar,22:12,c001,Ana Souza,rappi,PIX,,Margarita Maracujá | Quesadilla Queijo,Bebidas | Quesadillas,58,0,58,6.96,8,finalizado,entrega
+P0235,2026-06-11,quinta,jantar,17:44,c011,Juliana Pereira,balcão,débito,COMBO29,Quesadilla Queijo | Água | Limonada Mexicana | Quesadilla Frango,Quesadillas | Bebidas | Bebidas | Quesadillas,76,47,29,0,17,finalizado,local
+P0236,2026-06-11,quinta,jantar,18:02,c015,Larissa Nunes,balcão,débito,LIBRE10,Quesadilla Frango | Burrito Completo,Quesadillas | Burritos,66,6.6,59.4,0,15,finalizado,local
+P0237,2026-06-11,quinta,jantar,19:44,c026,Leonardo Cruz,rappi,débito,,Quesadilla Frango | Cerveja Artesanal | Taco Camarão,Quesadillas | Bebidas | Tacos,86,0,86,10.32,16,finalizado,entrega
+P0238,2026-06-11,quinta,jantar,21:24,c028,Victor Ribeiro,balcão,débito,NACHO15,Agua de Jamaica | Taco Camarão | Nachos Carnitas | Quesadilla Queijo,Bebidas | Tacos | Nachos | Quesadillas,120,18.0,102.0,0,15,cancelado,local
+P0239,2026-06-12,sexta,almoco,11:59,c030,Henrique Dias,balcão,débito,,Taco Camarão | Quesadilla Camarão | Burrito Vegetariano,Tacos | Quesadillas | Burritos,108,0,108,0,8,finalizado,local
+P0240,2026-06-12,sexta,almoco,12:17,c023,Priscila Lopes,totem,débito,LIBRE10,Agua de Jamaica | Limonada Mexicana,Bebidas | Bebidas,26,2.6,23.4,0,13,finalizado,local
+P0241,2026-06-12,sexta,almoco,14:08,c018,Felipe Barbosa,totem,débito,,Nachos Clássicos | Cerveja Artesanal,Nachos | Bebidas,50,0,50,0,6,finalizado,local
+P0242,2026-06-12,sexta,almoco,13:23,c001,Ana Souza,balcão,PIX,,Limonada Mexicana | Margarita Clássica | Água | Nachos Carnitas,Bebidas | Bebidas | Bebidas | Nachos,92,0,92,0,13,finalizado,local
+P0243,2026-06-12,sexta,almoco,12:27,c003,Carla Mendes,balcão,PIX,,Burrito Completo,Burritos,36,0,36,0,14,finalizado,local
+P0244,2026-06-12,sexta,almoco,12:38,c006,Lucas Ferreira,rappi,débito,COMBO29,Taco Camarão,Tacos,38,9,29,4.56,18,cancelado,entrega
+P0245,2026-06-12,sexta,almoco,14:17,c018,Felipe Barbosa,rappi,PIX,,Limonada Mexicana | Taco Camarão,Bebidas | Tacos,52,0,52,6.24,18,finalizado,entrega
+P0246,2026-06-12,sexta,almoco,12:00,c008,Rafael Oliveira,totem,crédito,,Nachos Carnitas | Taco Carne Assada | Cerveja Artesanal,Nachos | Tacos | Bebidas,94,0,94,0,18,finalizado,local
+P0247,2026-06-12,sexta,tarde,15:22,c007,Mariana Silva,rappi,crédito,NACHO15,Quesadilla Queijo | Taco Vegano | Quesadilla Frango | Limonada Mexicana,Quesadillas | Tacos | Quesadillas | Bebidas,92,13.8,78.2,11.04,18,cancelado,entrega
+P0248,2026-06-12,sexta,tarde,15:44,c002,Pedro Lima,balcão,PIX,,Nachos Clássicos | Burrito Vegetariano,Nachos | Burritos,60,0,60,0,15,cancelado,local
+P0249,2026-06-12,sexta,tarde,15:03,c028,Victor Ribeiro,balcão,crédito,,Taco Frango | Burrito Completo | Taco Vegano | Nachos Carnitas,Tacos | Burritos | Tacos | Nachos,126,0,126,0,9,finalizado,local
+P0250,2026-06-12,sexta,tarde,16:25,c023,Priscila Lopes,totem,crédito,,Taco Vegano | Burrito Completo | Limonada Mexicana | Quesadilla Frango,Tacos | Burritos | Bebidas | Quesadillas,102,0,102,0,7,finalizado,local
+P0251,2026-06-12,sexta,jantar,18:17,c013,Fernanda Gomes,balcão,crédito,,Margarita Clássica | Nachos Clássicos | Taco Carnitas | Limonada Mexicana,Bebidas | Nachos | Tacos | Bebidas,102,0,102,0,17,finalizado,viagem
+P0252,2026-06-12,sexta,jantar,19:47,c021,Amanda Teixeira,ifood,crédito,NACHO15,Quesadilla Frango | Limonada Mexicana | Água | Quesadilla Camarão,Quesadillas | Bebidas | Bebidas | Quesadillas,92,13.8,78.2,11.04,11,finalizado,entrega
+P0253,2026-06-12,sexta,jantar,21:25,c027,Sabrina Monteiro,totem,PIX,,Nachos Clássicos | Taco Frango | Margarita Maracujá | Margarita Clássica,Nachos | Tacos | Bebidas | Bebidas,116,0,116,0,6,cancelado,local
+P0254,2026-06-12,sexta,jantar,19:13,c030,Henrique Dias,rappi,PIX,COMBO29,Limonada Mexicana,Bebidas,14,0,14,1.68,17,finalizado,entrega
+P0255,2026-06-12,sexta,jantar,18:12,c030,Henrique Dias,totem,crédito,,Taco Carne Assada | Nachos Carnitas | Burrito Completo,Tacos | Nachos | Burritos,112,0,112,0,11,finalizado,local
+P0256,2026-06-12,sexta,jantar,21:34,c002,Pedro Lima,balcão,crédito,,Taco Carne Assada | Taco Camarão | Taco Carnitas | Margarita Maracujá,Tacos | Tacos | Tacos | Bebidas,130,0,130,0,7,finalizado,local
+P0257,2026-06-12,sexta,jantar,18:31,c019,Tatiana Cardoso,totem,débito,COMBO29,Nachos Clássicos,Nachos,32,3,29,0,12,finalizado,local
+P0258,2026-06-12,sexta,jantar,20:10,c016,Mateus Ramos,totem,PIX,LIBRE10,Taco Camarão,Tacos,38,3.8,34.2,0,11,finalizado,local
+P0259,2026-06-12,sexta,jantar,22:18,c005,Beatriz Rocha,balcão,crédito,,Margarita Maracujá,Bebidas,32,0,32,0,6,finalizado,local
+P0260,2026-06-12,sexta,jantar,18:21,c015,Larissa Nunes,totem,crédito,,Cerveja Artesanal | Quesadilla Frango | Taco Carne Assada | Água,Bebidas | Quesadillas | Tacos | Bebidas,86,0,86,0,8,finalizado,local
+P0261,2026-06-12,sexta,jantar,18:13,c019,Tatiana Cardoso,ifood,débito,NACHO15,Taco Vegano | Quesadilla Camarão | Burrito Completo,Tacos | Quesadillas | Burritos,100,15.0,85.0,12.0,9,finalizado,entrega
+P0262,2026-06-12,sexta,jantar,20:50,c018,Felipe Barbosa,balcão,débito,,Quesadilla Frango | Margarita Maracujá | Água,Quesadillas | Bebidas | Bebidas,68,0,68,0,10,finalizado,local
+P0263,2026-06-12,sexta,jantar,21:45,c026,Leonardo Cruz,rappi,PIX,COMBO29,Quesadilla Camarão,Quesadillas,42,13,29,5.04,16,finalizado,entrega
+P0264,2026-06-12,sexta,jantar,20:37,c020,Rodrigo Pinto,totem,débito,,Taco Vegano | Agua de Jamaica | Limonada Mexicana,Tacos | Bebidas | Bebidas,48,0,48,0,14,finalizado,local
+P0265,2026-06-12,sexta,jantar,19:44,c025,Natália Freitas,balcão,crédito,,Taco Carnitas,Tacos,28,0,28,0,9,finalizado,local
+P0266,2026-06-12,sexta,jantar,20:55,c030,Henrique Dias,totem,crédito,LIBRE10,Margarita Maracujá | Limonada Mexicana | Água,Bebidas | Bebidas | Bebidas,52,5.2,46.8,0,7,cancelado,local
+P0267,2026-06-12,sexta,jantar,20:50,c009,Camila Santos,totem,PIX,,Taco Vegano | Nachos Clássicos,Tacos | Nachos,54,0,54,0,15,cancelado,local
+P0268,2026-06-12,sexta,jantar,18:29,c010,Thiago Alves,ifood,débito,,Taco Carne Assada | Limonada Mexicana,Tacos | Bebidas,46,0,46,5.52,13,finalizado,entrega
+P0269,2026-06-12,sexta,jantar,18:40,c020,Rodrigo Pinto,balcão,PIX,,Taco Carnitas,Tacos,28,0,28,0,17,finalizado,local
+P0270,2026-06-12,sexta,jantar,17:45,c006,Lucas Ferreira,balcão,PIX,,Taco Vegano | Burrito Completo | Taco Camarão,Tacos | Burritos | Tacos,96,0,96,0,11,finalizado,viagem
+P0271,2026-06-12,sexta,jantar,21:23,c009,Camila Santos,balcão,PIX,,Margarita Clássica,Bebidas,28,0,28,0,14,cancelado,local
+P0272,2026-06-12,sexta,jantar,22:23,c002,Pedro Lima,balcão,crédito,,Burrito Completo | Taco Camarão,Burritos | Tacos,74,0,74,0,16,finalizado,local
+P0273,2026-06-13,sábado,almoco,13:03,c024,Eduardo Vieira,balcão,PIX,,Taco Frango | Margarita Clássica,Tacos | Bebidas,52,0,52,0,12,finalizado,local
+P0274,2026-06-13,sábado,almoco,12:39,c006,Lucas Ferreira,rappi,PIX,LIBRE10,Quesadilla Camarão | Limonada Mexicana | Nachos Clássicos,Quesadillas | Bebidas | Nachos,88,8.8,79.2,10.56,7,finalizado,entrega
+P0275,2026-06-13,sábado,almoco,13:12,c019,Tatiana Cardoso,totem,PIX,,Margarita Maracujá | Taco Frango,Bebidas | Tacos,56,0,56,0,7,finalizado,viagem
+P0276,2026-06-13,sábado,almoco,13:26,c028,Victor Ribeiro,totem,crédito,,Água,Bebidas,6,0,6,0,6,finalizado,local
+P0277,2026-06-13,sábado,almoco,14:01,c007,Mariana Silva,totem,débito,,Cerveja Artesanal | Nachos Carnitas,Bebidas | Nachos,62,0,62,0,13,cancelado,local
+P0278,2026-06-13,sábado,almoco,11:36,c024,Eduardo Vieira,balcão,crédito,,Limonada Mexicana,Bebidas,14,0,14,0,9,finalizado,local
+P0279,2026-06-13,sábado,almoco,12:48,c021,Amanda Teixeira,rappi,crédito,,Agua de Jamaica,Bebidas,12,0,12,1.44,7,finalizado,entrega
+P0280,2026-06-13,sábado,almoco,12:41,c007,Mariana Silva,balcão,PIX,LIBRE10,Taco Vegano,Tacos,22,2.2,19.8,0,7,finalizado,local
+P0281,2026-06-13,sábado,almoco,13:10,c030,Henrique Dias,totem,crédito,LIBRE10,Taco Carne Assada | Taco Camarão | Taco Vegano | Nachos Clássicos,Tacos | Tacos | Tacos | Nachos,124,12.4,111.6,0,7,finalizado,local
+P0282,2026-06-13,sábado,almoco,12:51,c014,Diego Castro,ifood,PIX,,Nachos Clássicos | Agua de Jamaica | Água,Nachos | Bebidas | Bebidas,50,0,50,6.0,13,finalizado,entrega
+P0283,2026-06-13,sábado,almoco,11:57,c009,Camila Santos,totem,PIX,,Taco Vegano,Tacos,22,0,22,0,8,finalizado,viagem
+P0284,2026-06-13,sábado,almoco,13:28,c015,Larissa Nunes,totem,débito,,Quesadilla Frango | Cerveja Artesanal | Burrito Vegetariano,Quesadillas | Bebidas | Burritos,76,0,76,0,10,cancelado,local
+P0285,2026-06-13,sábado,tarde,15:53,c003,Carla Mendes,totem,crédito,,Quesadilla Frango,Quesadillas,30,0,30,0,8,cancelado,local
+P0286,2026-06-13,sábado,tarde,15:36,c023,Priscila Lopes,totem,PIX,LIBRE10,Burrito Vegetariano,Burritos,28,2.8,25.2,0,8,cancelado,local
+P0287,2026-06-13,sábado,tarde,14:45,c013,Fernanda Gomes,rappi,débito,,Taco Camarão | Taco Vegano | Água | Taco Carnitas,Tacos | Tacos | Bebidas | Tacos,94,0,94,11.28,18,finalizado,entrega
+P0288,2026-06-13,sábado,tarde,14:49,c008,Rafael Oliveira,totem,PIX,LIBRE10,Burrito Completo,Burritos,36,3.6,32.4,0,6,finalizado,local
+P0289,2026-06-13,sábado,tarde,14:42,c007,Mariana Silva,ifood,débito,,Taco Camarão | Taco Frango | Cerveja Artesanal,Tacos | Tacos | Bebidas,80,0,80,9.6,8,finalizado,entrega
+P0290,2026-06-13,sábado,tarde,17:24,c030,Henrique Dias,balcão,débito,LIBRE10,Agua de Jamaica,Bebidas,12,1.2,10.8,0,12,finalizado,local
+P0291,2026-06-13,sábado,jantar,20:01,c012,Bruno Martins,totem,PIX,,Taco Vegano | Taco Frango | Quesadilla Camarão | Nachos Clássicos,Tacos | Tacos | Quesadillas | Nachos,120,0,120,0,13,finalizado,viagem
+P0292,2026-06-13,sábado,jantar,19:12,c029,Aline Correia,balcão,débito,,Agua de Jamaica | Taco Vegano | Limonada Mexicana,Bebidas | Tacos | Bebidas,48,0,48,0,16,finalizado,local
+P0293,2026-06-13,sábado,jantar,22:19,c021,Amanda Teixeira,rappi,débito,,Margarita Clássica | Água | Nachos Carnitas,Bebidas | Bebidas | Nachos,78,0,78,9.36,14,finalizado,entrega
+P0294,2026-06-13,sábado,jantar,17:59,c011,Juliana Pereira,balcão,PIX,,Quesadilla Camarão | Taco Carnitas | Burrito Completo,Quesadillas | Tacos | Burritos,106,0,106,0,18,finalizado,viagem
+P0295,2026-06-13,sábado,jantar,19:33,c017,Isabela Moura,totem,crédito,,Quesadilla Camarão,Quesadillas,42,0,42,0,10,finalizado,local
+P0296,2026-06-13,sábado,jantar,20:12,c025,Natália Freitas,totem,débito,LIBRE10,Quesadilla Queijo | Quesadilla Camarão,Quesadillas | Quesadillas,68,6.8,61.2,0,18,finalizado,local
+P0297,2026-06-13,sábado,jantar,22:07,c030,Henrique Dias,balcão,PIX,NACHO15,Quesadilla Frango | Margarita Clássica,Quesadillas | Bebidas,58,8.7,49.3,0,10,cancelado,local
+P0298,2026-06-13,sábado,jantar,21:34,c016,Mateus Ramos,totem,PIX,,Taco Carnitas | Margarita Maracujá,Tacos | Bebidas,60,0,60,0,6,finalizado,local
+P0299,2026-06-13,sábado,jantar,17:41,c030,Henrique Dias,balcão,PIX,,Nachos Clássicos | Taco Frango,Nachos | Tacos,56,0,56,0,8,finalizado,local
+P0300,2026-06-13,sábado,jantar,20:04,c025,Natália Freitas,totem,crédito,NACHO15,Agua de Jamaica | Taco Camarão | Nachos Clássicos,Bebidas | Tacos | Nachos,82,12.3,69.7,0,11,finalizado,local
+P0301,2026-06-13,sábado,jantar,19:24,c006,Lucas Ferreira,ifood,débito,COMBO29,Água | Nachos Carnitas,Bebidas | Nachos,50,21,29,6.0,16,finalizado,entrega
+P0302,2026-06-13,sábado,jantar,22:23,c019,Tatiana Cardoso,rappi,PIX,LIBRE10,Taco Vegano | Quesadilla Queijo | Taco Carnitas,Tacos | Quesadillas | Tacos,76,7.6,68.4,9.12,12,finalizado,entrega
+P0303,2026-06-13,sábado,jantar,18:42,c028,Victor Ribeiro,rappi,débito,,Quesadilla Camarão | Taco Camarão | Margarita Clássica,Quesadillas | Tacos | Bebidas,108,0,108,12.96,11,finalizado,entrega
+P0304,2026-06-13,sábado,jantar,21:18,c024,Eduardo Vieira,totem,PIX,NACHO15,Taco Carne Assada | Nachos Clássicos,Tacos | Nachos,64,9.6,54.4,0,6,finalizado,local
+P0305,2026-06-13,sábado,jantar,20:47,c007,Mariana Silva,totem,crédito,,Taco Camarão | Taco Carnitas | Taco Frango,Tacos | Tacos | Tacos,90,0,90,0,13,finalizado,viagem
+P0306,2026-06-13,sábado,jantar,21:21,c006,Lucas Ferreira,balcão,débito,LIBRE10,Taco Camarão | Margarita Clássica | Quesadilla Camarão | Taco Carne Assada,Tacos | Bebidas | Quesadillas | Tacos,140,14.0,126.0,0,7,finalizado,local
+P0307,2026-06-13,sábado,jantar,18:57,c010,Thiago Alves,totem,PIX,,Nachos Clássicos,Nachos,32,0,32,0,12,finalizado,local
+P0308,2026-06-13,sábado,jantar,21:12,c024,Eduardo Vieira,totem,débito,,Taco Carnitas | Limonada Mexicana | Quesadilla Queijo | Burrito Vegetariano,Tacos | Bebidas | Quesadillas | Burritos,96,0,96,0,8,finalizado,local
+P0309,2026-06-13,sábado,jantar,18:19,c004,João Costa,totem,PIX,,Burrito Vegetariano | Água | Quesadilla Camarão,Burritos | Bebidas | Quesadillas,76,0,76,0,6,finalizado,viagem
+P0310,2026-06-13,sábado,jantar,17:31,c019,Tatiana Cardoso,balcão,crédito,COMBO29,Nachos Carnitas,Nachos,44,15,29,0,12,finalizado,local
+P0311,2026-06-13,sábado,jantar,19:15,c010,Thiago Alves,rappi,crédito,COMBO29,Taco Carnitas,Tacos,28,0,28,3.36,8,finalizado,entrega
+P0312,2026-06-13,sábado,jantar,19:45,c021,Amanda Teixeira,totem,PIX,COMBO29,Agua de Jamaica | Margarita Clássica | Margarita Maracujá,Bebidas | Bebidas | Bebidas,72,43,29,0,7,finalizado,viagem
+P0313,2026-06-13,sábado,jantar,19:44,c006,Lucas Ferreira,totem,débito,NACHO15,Taco Frango | Burrito Completo | Cerveja Artesanal | Quesadilla Camarão,Tacos | Burritos | Bebidas | Quesadillas,120,18.0,102.0,0,9,finalizado,local
+P0314,2026-06-13,sábado,jantar,22:13,c019,Tatiana Cardoso,totem,PIX,,Água | Limonada Mexicana | Quesadilla Camarão,Bebidas | Bebidas | Quesadillas,62,0,62,0,6,finalizado,viagem
+P0315,2026-06-13,sábado,jantar,18:10,c027,Sabrina Monteiro,balcão,débito,COMBO29,Margarita Clássica | Burrito Vegetariano,Bebidas | Burritos,56,27,29,0,12,cancelado,local

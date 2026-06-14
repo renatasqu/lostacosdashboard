@@ -1,0 +1,14 @@
+data,dia_semana,pedidos_finalizados,cancelamentos,receita_bruta,descontos_cupom,taxas_delivery,receita_liquida,ticket_medio,canal_mais_usado,item_mais_vendido
+2026-06-01,segunda,11,1,818,67,8.4,809.6,74.36,totem,Taco Frango
+2026-06-02,terça,10,4,568.9,110.6,48.72,520.18,56.89,totem,Taco Frango
+2026-06-03,quarta,17,1,1184.3,121.7,32.88,1151.42,69.66,totem,Burrito Completo
+2026-06-04,quinta,18,4,1025.0,279.6,66.24,958.76,56.94,totem,Burrito Completo
+2026-06-05,sexta,28,6,1835.2,233.2,77.52,1757.68,65.54,totem,Burrito Completo
+2026-06-06,sábado,30,13,1884.1,346.6,141.36,1742.74,62.8,totem,Taco Carnitas
+2026-06-07,domingo,22,7,1535.2,258.8,86.4,1448.8,69.78,totem,Burrito Completo
+2026-06-08,segunda,8,4,581.5,123.5,12.96,568.54,72.69,totem,Taco Frango
+2026-06-09,terça,11,3,692.4,64.0,38.64,653.76,62.95,totem,Taco Frango
+2026-06-10,quarta,14,4,729.6,140.0,22.56,707.04,52.11,totem,Taco Carnitas
+2026-06-11,quinta,20,2,1245.2,310.8,76.8,1168.4,62.26,totem,Nachos Carnitas
+2026-06-12,sexta,27,7,1802.8,79.2,57.12,1745.68,66.77,totem,Taco Frango
+2026-06-13,sábado,37,6,2210.5,214.0,79.68,2130.82,59.74,totem,Taco Frango
